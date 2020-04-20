@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 497ffa7802101834ca7b454dcb53c532
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 7475408450641285272, guid: bead983b78b637e4aaa0c59a1daa8e0e,
+      type: 3}
+  - stepsLeftText: {fileID: 7293158855231840659, guid: 9970d651cbd82ea45b85b4c4edd0a64e,
+      type: 3}
+  - scoreText: {fileID: 4336872020848552903, guid: 39067cf1884cbc54481653d64fe88368,
+      type: 3}
+  - taskText: {fileID: 3349664029420630604, guid: 62c500dc311624c478947ff7d5a59ba1,
+      type: 3}
+  - pauseButtonText: {fileID: 6130509055716797604, guid: f55f3173b496f4245aaa3193df8e0998,
+      type: 3}
+  - musicButtonText: {fileID: 5767215227523939571, guid: 2842060228fe4244e931f5411ab1fc57,
+      type: 3}
+  - panel: {fileID: 3606166568482478665, guid: ab4b85af4b87abb4ea8191a5552d94fe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
